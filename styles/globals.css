@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+a {
+  color: #84309c;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #e7e8e8;
+  background: #070707;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #1a1a1a; /* Dark background for better aesthetics */
+  color: #fff; /* White text for contrast */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+}
+
+.logoImage {
+  width: 128px; /* Exact width */
+  height: 24px; /* Exact height */
+  object-fit: contain;
+  margin-right: 10px;
+}
+
+.siteTitle {
+  font-size: 1.2rem;
+  color: #ff9900; /* Custom color for site title */
+  margin-left: 10px;
+}
+
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-grow: 1;
+  margin-left: 20px;
+}
+
+.navButton {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #007bff; /* Button background color */
+  color: white; /* Button text color */
+  text-align: center;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 10px; /* Spacing between buttons */
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.navButton:hover {
+  background-color: #0056b3; /* Button hover color */
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.walletContainer {
+  display: flex;
+  align-items: center;
+}
+
+.walletContainer > * {
+  margin-left: 20px; /* Spacing between buttons */
+}
+
+.navButtonText {
+  margin-left: 10px;
+}
+
+/* Additional styles for menu-extras and responsive design */
+.menu-extras {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-toggle {
+  cursor: pointer;
+}
+
+.navbar-toggle .lines {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 24px;
+}
+
+.navbar-toggle .lines span {
+  background-color: #fff;
+  height: 2px;
+  width: 24px;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .navContainer {
+      display: none; /* Hide navContainer on small screens */
+  }
+
+  .navbar-toggle.open + .navContainer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+}

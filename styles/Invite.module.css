@@ -1,0 +1,66 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: transparent;
+}
+
+.card {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    max-width: 400px;
+    width: 100%;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+.description {
+    font-size: 16px;
+    color: #666666;
+    margin-bottom: 30px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.iconButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.iconButton:hover .icon {
+    transform: scale(1.1);
+    color: #1a202c; /* Darken the color on hover */
+}
+
+.icon {
+    color: #4a5568; /* Neutral color for icons */
+    font-size: 28px;
+    transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.timerText {
+    font-size: 14px;
+    color: #ff0000;
+    margin-top: 15px;
+}

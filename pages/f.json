@@ -1,0 +1,116 @@
+{
+  "day": "Friday, October 18",
+  "stages": {
+    "Mind Melt": [
+      {"artist": "Ackdaddy", "time": "5:00 PM - 6:30 PM", "spotify": "not found"},
+      {"artist": "Thee Sacred Souls", "time": "6:30 PM - 7:30 PM", "spotify": "https://open.spotify.com/artist/2LxuAebVIb7nR6A4HV5ixr"},
+      {"artist": "Parliament Funkadelic feat. George Clinton", "time": "8:00 PM - 9:00 PM", "spotify": "https://open.spotify.com/artist/3XJ2sXLxGjjwunQ20dVYwi"},
+      {"artist": "Jungle", "time": "9:30 PM - 10:30 PM", "spotify": "https://open.spotify.com/artist/2mAZNgg4LKXxTqRVe8jFMH"},
+      {"artist": "Kaytranada", "time": "11:30 PM - 1:00 AM", "spotify": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"},
+      {"artist": "Disclosure", "time": "12:45 AM - 2:00 AM", "spotify": "https://open.spotify.com/artist/6gi6y1xwmVszDWkUqab1qw"},
+      {"artist": "Cloonee", "time": "2:30 AM - 4:00 AM", "spotify": "https://open.spotify.com/artist/4yXwGWu02LfKVaW8povm90"}
+    ],
+    "Sector 3": [
+      {"artist": "Kate W. Bush", "time": "4:00 PM - 4:45 PM", "spotify": "not found"},
+      {"artist": "Summer Wright", "time": "5:00 PM - 5:30 PM", "spotify": "not found"},
+      {"artist": "Le Poodle", "time": "5:45 PM - 6:25 PM", "spotify": "not found"},
+      {"artist": "Sega Bodega", "time": "6:40 PM - 7:25 PM", "spotify": "https://open.spotify.com/artist/1NZ25t5v4tA7UDRsF2DdaN"},
+      {"artist": "Bar Italia", "time": "7:50 PM - 8:40 PM", "spotify": "https://open.spotify.com/artist/0IfNeA5oShOVwmU39ZDuef"},
+      {"artist": "DJ Shadow", "time": "9:05 PM - 10:05 PM", "spotify": "https://open.spotify.com/artist/4DaiWk4HqiBMs5tKO3YoNU"},
+      {"artist": "Raekwon", "time": "10:25 PM - 11:05 PM", "spotify": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"},
+      {"artist": "Channel Tres", "time": "12:30 AM - 1:30 AM", "spotify": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"},
+      {"artist": "Glass Beams", "time": "1:50 AM - 2:40 AM", "spotify": "not found"},
+      {"artist": "Tinlicker (Live)", "time": "3:00 AM - 4:00 AM", "spotify": "https://open.spotify.com/artist/7kKXRl2wGuLr9YVozLKnSb"}
+    ],
+    "RC95": [
+      {"artist": "Bouquet", "time": "3:00 PM - 4:45 PM", "spotify": "not found"},
+      {"artist": "Mary Jane", "time": "4:45 PM - 6:00 PM", "spotify": "not found"},
+      {"artist": "Fiin B2B Monoky", "time": "6:00 PM - 7:30 PM", "spotify": "not found"},
+      {"artist": "Generous B", "time": "7:30 PM - 8:45 PM", "spotify": "not found"},
+      {"artist": "Rob Garza (Thievery Corporation) DJ Set", "time": "8:45 PM - 10:00 PM", "spotify": "https://open.spotify.com/artist/2WEQDNV57c4bTfVJNOL8SJ"},
+      {"artist": "Elderbrook (Live)", "time": "10:15 PM - 11:15 PM", "spotify": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"},
+      {"artist": "ISOxo", "time": "12:30 AM - 1:30 AM", "spotify": "https://open.spotify.com/artist/0DBkmqqgWt2zOpTNYxa3YQ"},
+      {"artist": "Of The Trees", "time": "2:50 AM - 4:00 AM", "spotify": "https://open.spotify.com/artist/5bjwacAn12Zg4d7VR3Biza"}
+    ],
+    "Isotropic": [
+      {"artist": "Differ B2B Tiffy Vera", "time": "4:30 PM - 6:00 PM", "spotify": "not found"},
+      {"artist": "Max Stern", "time": "6:00 PM - 7:15 PM", "spotify": "not found"},
+      {"artist": "Thunderpony", "time": "7:15 PM - 8:30 PM", "spotify": "not found"},
+      {"artist": "Malóne B2B Miluhska", "time": "8:30 PM - 10:00 PM", "spotify": "not found"},
+      {"artist": "Prunk B2B Ms. Mada", "time": "11:30 PM - 1:00 AM", "spotify": "not found"},
+      {"artist": "Beltran", "time": "1:00 AM - 2:30 AM", "spotify": "not found"},
+      {"artist": "James Hype B2B Meduza", "time": "2:30 AM - 4:00 AM", "spotify": "https://open.spotify.com/artist/26C2n3UuixDhlzGeI3wA4r"}
+    ],
+    "444": [
+      {"artist": "Heidi Lawden", "time": "4:00 PM - 8:00 PM", "spotify": "not found"},
+      {"artist": "Pachanga Boys", "time": "8:00 PM - 12:00 AM", "spotify": "not found"},
+      {"artist": "DJ Koze", "time": "12:00 AM - 4:00 AM", "spotify": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"}
+    ],
+    "S3QUENC3": [
+      {"artist": "Deep Cleansing", "time": "3:00 PM - 4:30 PM", "spotify": "not found"},
+      {"artist": "Mr. Tron", "time": "4:30 PM - 5:45 PM", "spotify": "not found"},
+      {"artist": "Dara Del Castillo", "time": "6:45 PM - 8:00 PM", "spotify": "not found"},
+      {"artist": "Priori B2B Sister System", "time": "8:00 PM - 9:30 PM", "spotify": "not found"},
+      {"artist": "Jonny From Space (Live)", "time": "9:30 PM - 10:30 PM", "spotify": "not found"},
+      {"artist": "Skee Mask", "time": "10:30 PM - 12:00 AM", "spotify": "https://open.spotify.com/artist/2AeEWU7EP2GeNH4OCkoNXY"},
+      {"artist": "Ben UFO", "time": "12:00 AM - 1:30 AM", "spotify": "not found"},
+      {"artist": "Aurora Halal (Live)", "time": "1:30 AM - 2:30 AM", "spotify": "not found"},
+      {"artist": "Juan Atkins", "time": "2:30 AM - 4:00 AM", "spotify": "https://open.spotify.com/artist/1xuexQUFqsUBhg1BvmfjF2"}
+    ],
+    "Red Bull Unforeseen": [
+      {"artist": "Shyda B2B Alexx in Chainss", "time": "4:00 PM - 5:30 PM", "spotify": "not found"},
+      {"artist": "Craze B2B Shinobi", "time": "5:30 PM - 7:00 PM", "spotify": "not found"},
+      {"artist": "Bort B2B Serafitz", "time": "7:00 PM - 8:30 PM", "spotify": "not found"},
+      {"artist": "Nicholas G. Padilla", "time": "8:30 PM - 9:30 PM", "spotify": "not found"},
+      {"artist": "Greg Beato", "time": "8:30 PM - 10:30 PM", "spotify": "not found"},
+      {"artist": "DJ Fitness", "time": "10:30 PM - 11:30 PM", "spotify": "not found"},
+      {"artist": "Pressure Point B2B SEL.6", "time": "11:30 PM - 1:00 AM", "spotify": "not found"},
+      {"artist": "Eli Escobar", "time": "1:00 AM - 2:30 AM", "spotify": "https://open.spotify.com/artist/7Izn5zAg5cW4swgqkLUMVm"},
+      {"artist": "Carzolla B2B House of Pris", "time": "2:30 AM - 4:00 AM", "spotify": "not found"}
+    ],
+    "Door IV": [
+      {"artist": "619!", "time": "3:00 PM - 4:15 PM", "spotify": "not found"},
+      {"artist": "Cilla B2B Haumea", "time": "4:15 PM - 5:45 PM", "spotify": "not found"},
+      {"artist": "Elias Garcia B2B Jay York", "time": "5:45 PM - 7:15 PM", "spotify": "not found"},
+      {"artist": "Mauricio, The Invisible", "time": "7:15 PM - 8:30 PM", "spotify": "not found"},
+      {"artist": "Ashley Venom B2B Souls Departed", "time": "8:30 PM - 10:00 PM", "spotify": "not found"},
+      {"artist": "IMOGEN B2B Ultrathem", "time": "10:00 PM - 11:30 PM", "spotify": "not found"},
+      {"artist": "SATURNSARii B2B SDRV", "time": "11:30 PM - 1:00 AM", "spotify": "not found"},
+      {"artist": "Robyn Sin Love B2B Quetamine", "time": "1:00 AM - 2:30 AM", "spotify": "not found"},
+      {"artist": "Naomi Luna B2B Cream", "time": "2:30 AM - 4:00 AM", "spotify": "not found"}
+    ],
+    "MCR Live": [
+      {"artist": "Carson", "time": "5:30 PM - 6:00 PM", "spotify": "not found"},
+      {"artist": "The Farm Boys", "time": "9:30 PM - 10:05 PM", "spotify": "not found"},
+      {"artist": "Electric Kif", "time": "10:30 PM - 11:05 PM", "spotify": "https://open.spotify.com/artist/5ev1T6vWlUgtM9qFzz3eOj"},
+      {"artist": "Gio Elia", "time": "10:30 PM - 12:00 AM", "spotify": "not found"},
+      {"artist": "Matt Denuzzo", "time": "10:30 PM - 11:45 PM", "spotify": "not found"},
+      {"artist": "Julia Saturno", "time": "10:00 PM - 12:00 AM", "spotify": "not found"},
+      {"artist": "Diego Melgar", "time": "2:30 AM - 3:05 AM", "spotify": "not found"}
+    ],
+    "Objects Don’t Dance": [
+      {"artist": "Lotusoph", "time": "4:00 PM - 5:30 PM", "spotify": "not found"},
+      {"artist": "Mikey Bird", "time": "5:30 PM - 7:00 PM", "spotify": "not found"},
+      {"artist": "Fabiola", "time": "7:00 PM - 8:30 PM", "spotify": "not found"},
+      {"artist": "Romulo Del Castillo B2B Jinks", "time": "8:30 PM - 10:30 PM", "spotify": "not found"},
+      {"artist": "Duun B2B Nap", "time": "12:00 AM - 2:00 AM", "spotify": "not found"},
+      {"artist": "True Vine B2B Bort", "time": "2:00 AM - 4:00 AM", "spotify": "not found"}
+    ],
+    "Players Club": [
+      {"artist": "JBZ", "time": "3:00 PM - 4:15 PM", "spotify": "not found"},
+      {"artist": "Krishna Villar", "time": "4:15 PM - 5:30 PM", "spotify": "not found"},
+      {"artist": "DJ Ahamed", "time": "5:30 PM - 6:45 PM", "spotify": "not found"},
+      {"artist": "CHAOS!", "time": "6:45 PM - 8:00 PM", "spotify": "not found"},
+      {"artist": "Aramis Lorié", "time": "8:15 PM - 10:30 PM", "spotify": "not found"},
+      {"artist": "Inbal", "time": "11:45 PM - 12:45 AM", "spotify": "not found"},
+      {"artist": "ElevAA B2B Alan Amorrozo", "time": "1:00 AM - 2:15 AM", "spotify": "not found"}
+    ],
+    "Technique Records": [
+      {"artist": "Lunch with Mizo", "time": "4:00 PM - 6:00 PM", "spotify": "not found"},
+      {"artist": "Unit #3", "time": "6:00 PM - 8:00 PM", "spotify": "not found"},
+      {"artist": "Michael Grant", "time": "8:00 PM - 10:00 PM", "spotify": "not found"},
+      {"artist": "Julia Saturno", "time": "10:00 PM - 12:00 AM", "spotify": "not found"},
+      {"artist": "Girl Cop", "time": "12:00 AM - 2:00 AM", "spotify": "not found"}
+    ]
+  }
+}

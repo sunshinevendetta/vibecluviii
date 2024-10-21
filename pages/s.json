@@ -1,0 +1,127 @@
+{
+    "day": "Saturday, October 19",
+    "stages": {
+      "Mind Melt": [
+        {"artist": "Brother Dan", "time": "5:00 PM - 6:30 PM"},
+        {"artist": "Toro y Moi", "time": "6:30 PM - 7:30 PM"},
+        {"artist": "Soulwax", "time": "8:00 PM - 9:00 PM"},
+        {"artist": "Nick León & Ezra Miller (Live A/V)", "time": "8:10 PM - 9:10 PM"},
+        {"artist": "Jamie XX", "time": "9:30 PM - 11:00 PM"},
+        {"artist": "Yung Lean & Bladee", "time": "9:30 PM - 11:00 PM"},
+        {"artist": "Justice", "time": "11:45 PM - 1:00 AM"},
+        {"artist": "PAWSA", "time": "1:30 AM - 2:45 AM"},
+        {"artist": "Mochakk", "time": "2:45 AM - 4:00 AM"}
+      ],
+      "Sector 3": [
+        {"artist": "1-800-Lolita B2B Xana", "time": "3:00 PM - 4:00 PM"},
+        {"artist": "Bozito", "time": "4:00 PM - 5:00 PM"},
+        {"artist": "Girl Heaven", "time": "5:15 PM - 5:45 PM"},
+        {"artist": "Alejo B2B Rude Boy", "time": "5:15 PM - 6:30 PM"},
+        {"artist": "Natural Wonder Beauty Concept", "time": "6:00 PM - 6:45 PM"},
+        {"artist": "Isabella Lovestory", "time": "7:05 PM - 7:50 PM"},
+        {"artist": "Rick Ross", "time": "11:20 PM - 12:00 AM"},
+        {"artist": "Bad Gyal", "time": "12:20 AM - 1:20 AM"}
+      ],
+      "RC95": [
+        {"artist": "Soukii B2B Whom?", "time": "3:00 PM - 4:15 PM"},
+        {"artist": "DJ Flashdrive", "time": "4:15 PM - 5:15 PM"},
+        {"artist": "SoFTT", "time": "6:30 PM - 7:30 PM"},
+        {"artist": "Player Dave", "time": "7:30 PM - 8:30 PM"},
+        {"artist": "Pretty Girl", "time": "8:30 PM - 9:30 PM"},
+        {"artist": "Disco Lines", "time": "9:30 PM - 10:30 PM"},
+        {"artist": "Joe Kay", "time": "10:30 PM - 11:30 PM"},
+        {"artist": "Salute", "time": "11:30 PM - 12:30 AM"},
+        {"artist": "Layton Giordani", "time": "12:30 AM - 1:45 AM"},
+        {"artist": "Sammy Virji", "time": "1:45 AM - 2:45 AM"}
+      ],
+      "Isotropic": [
+        {"artist": "Roll-e", "time": "3:00 PM - 4:30 PM"},
+        {"artist": "Nicole Gallamini", "time": "4:30 PM - 5:45 PM"},
+        {"artist": "Natalia Roth", "time": "5:45 PM - 7:00 PM"},
+        {"artist": "Ranger Trucco", "time": "7:00 PM - 8:30 PM"},
+        {"artist": "ChaseWest", "time": "8:30 PM - 10:00 PM"},
+        {"artist": "Blond:ISH", "time": "10:00 PM - 11:30 PM"},
+        {"artist": "Vintage Culture", "time": "11:30 PM - 1:00 AM"},
+        {"artist": "Carlita", "time": "1:00 AM - 2:30 AM"},
+        {"artist": "Layla Benitez", "time": "2:30 AM - 4:00 AM"}
+      ],
+      "444": [
+        {"artist": "D33 (Danny Daze) B2B Maher Daniel", "time": "8:00 PM - 12:00 AM"},
+        {"artist": "Seth Troxler", "time": "12:00 AM - 4:00 AM"}
+      ],
+      "S3QUENC3": [
+        {"artist": "Arina Krondeva", "time": "3:00 PM - 4:00 PM"},
+        {"artist": "DJ Tamsom B2B Toni Shardai", "time": "4:00 PM - 5:30 PM"},
+        {"artist": "Yu Su", "time": "4:00 PM - 8:00 PM"},
+        {"artist": "Marie Qrie B2B Xilla", "time": "5:30 PM - 7:00 PM"},
+        {"artist": "Lake Hills B2B True Vine", "time": "7:00 PM - 8:30 PM"},
+        {"artist": "Jubilee", "time": "8:30 PM - 10:00 PM"},
+        {"artist": "Chloé Robinson B2B Coffintexts", "time": "10:00 PM - 1:30 AM"},
+        {"artist": "Jacques Greene", "time": "11:30 PM - 1:00 AM"},
+        {"artist": "Skin on Skin B2B KETTAMA", "time": "1:00 AM - 2:30 AM"},
+        {"artist": "Mall Grab", "time": "2:30 AM - 4:00 AM"}
+      ],
+      "Red Bull Unforeseen": [
+        {"artist": "Godisound", "time": "3:00 PM - 4:15 PM"},
+        {"artist": "Phiphi B2B Milo Ziro", "time": "4:00 PM - 5:30 PM"},
+        {"artist": "Rich Medina", "time": "5:30 PM - 7:00 PM"},
+        {"artist": "Mystic Bill", "time": "7:00 PM - 8:30 PM"},
+        {"artist": "Jesse Perez B2B Lazaro Casanova", "time": "8:30 PM - 10:00 PM"},
+        {"artist": "Oscar G", "time": "10:00 PM - 11:30 PM"},
+        {"artist": "A-Trak", "time": "12:30 AM - 1:00 AM"},
+        {"artist": "Berrakka", "time": "1:00 AM - 2:30 AM"},
+        {"artist": "MARTE B2B v1fro", "time": "2:30 AM - 4:00 AM"}
+      ],
+      "Door IV": [
+        {"artist": "DJ 120 Max", "time": "3:00 PM - 5:00 PM"},
+        {"artist": "Artime B2B Terence Tabeau", "time": "4:15 PM - 5:45 PM"},
+        {"artist": "Idriss D B2B Danyelino", "time": "5:45 PM - 7:15 PM"},
+        {"artist": "Adam At The Door B2B KC Happy", "time": "7:15 PM - 8:30 PM"},
+        {"artist": "Moscoman", "time": "8:30 PM - 10:00 PM"},
+        {"artist": "Felipe Gordon B2B Will Buck", "time": "10:00 PM - 1:30 AM"},
+        {"artist": "Whitesquare B2B Ricardo Baez", "time": "11:30 PM - 1:00 AM"},
+        {"artist": "Asaf Samuel B2B Maccabi", "time": "1:00 AM - 2:30 AM"},
+        {"artist": "Julio Victoria", "time": "2:30 AM - 4:00 AM"}
+      ],
+      "MCR Live": [
+        {"artist": "My Friend Shawn", "time": "5:00 PM - 5:35 PM"},
+        {"artist": "Winded", "time": "6:00 PM - 6:35 PM"},
+        {"artist": "Mr Floyd Larry", "time": "7:00 PM - 7:35 PM"},
+        {"artist": "Palomino Blond", "time": "8:00 PM - 8:35 PM"},
+        {"artist": "Smelter", "time": "9:00 PM - 9:35 PM"},
+        {"artist": "Donzii", "time": "10:00 PM - 10:50 PM"},
+        {"artist": "Ladyboy", "time": "12:15 AM - 12:50 AM"},
+        {"artist": "Dime", "time": "1:15 AM - 1:50 AM"},
+        {"artist": "Bleeth", "time": "2:15 AM - 2:50 AM"},
+        {"artist": "Newly Opposed", "time": "3:15 AM - 3:50 AM"}
+      ],
+      "Objects Don’t Dance": [
+        {"artist": "Vsyana", "time": "4:00 PM - 5:30 PM"},
+        {"artist": "Jovigibs B2B Mutant Pete", "time": "5:30 PM - 7:30 PM"},
+        {"artist": "Ladiez Drink Free", "time": "7:30 PM - 9:30 PM"},
+        {"artist": "DJ Ray B2B Ez Dee", "time": "9:30 PM - 11:30 PM"},
+        {"artist": "Sister System B2B Jonny From Space", "time": "11:30 PM - 1:00 AM"},
+        {"artist": "Sportswax", "time": "1:00 AM - 2:00 AM"},
+        {"artist": "Loudmen", "time": "1:00 AM - 3:00 AM"},
+        {"artist": "???", "time": "3:00 AM - 4:00 AM"}
+      ],
+      "Players Club": [
+        {"artist": "DJ 120 Max", "time": "3:00 PM - 5:00 PM"},
+        {"artist": "Ari San", "time": "5:00 PM - 6:15 PM"},
+        {"artist": "Ennio & Tian", "time": "6:15 PM - 7:45 PM"},
+        {"artist": "Emma & Ferny", "time": "7:45 PM - 9:15 PM"},
+        {"artist": "Liquid J", "time": "9:15 PM - 10:15 PM"},
+        {"artist": "Taimur", "time": "10:15 PM - 11:30 PM"},
+        {"artist": "Bakke B2B Troy Kurtz", "time": "1:00 AM - 2:30 AM"},
+        {"artist": "Nikita Green", "time": "2:30 AM - 4:00 AM"}
+      ],      
+      "Technique Records": [
+        {"artist": "Gabo Wabo", "time": "4:00 PM - 6:00 PM"},
+        {"artist": "DJ Ynot", "time": "6:00 PM - 8:00 PM"},
+        {"artist": "Unit #3", "time": "8:00 PM - 10:00 PM"},
+        {"artist": "Mutant Pete", "time": "10:00 PM - 12:00 AM"},
+        {"artist": "Ladiez Drink Free", "time": "12:00 AM - 2:00 AM"}
+      ]
+    }
+  }
+  
